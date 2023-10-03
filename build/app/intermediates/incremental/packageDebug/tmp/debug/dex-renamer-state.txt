@@ -1,0 +1,4 @@
+#Wed Sep 27 22:09:03 CST 2023
+base.0=C\:\\Users\\User PC\\OneDrive - Universidad Don Bosco\\Documentos\\Flutter-apps\\desafio1_kenya\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
